@@ -4,5 +4,5 @@
 * [Xinglin Qiang - 1153086](https://github.com/qiangxinglin)
 * [Shaohua Liu - 1150336](https://github.com/sliu15)
 
-## [Kaggle Leaderboard](https://www.kaggle.com/c/comp90051-2020-sem2-proj1/leaderboard){:target="_blank"}
+## [Kaggle Leaderboard](https://www.kaggle.com/c/comp90051-2020-sem2-proj1/leaderboard)
 Score: 0.92258

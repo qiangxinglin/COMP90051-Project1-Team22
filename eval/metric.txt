@@ -1,0 +1,46 @@
+embedding/dim32-len40/line_train8.pkl
+[time] GraphApplication.train: 628.944 s
+AUC: 0.938708
+
+embedding/dim64-len40/line_train8.pkl
+[time] GraphApplication.train: 656.134 s
+AUC: 0.942899
+
+embedding/dim96-len40/line_train8.pkl
+[time] GraphApplication.train: 625.393 s
+AUC: 0.943513
+
+embedding/dim128-len40/line_train8.pkl
+[time] GraphApplication.train: 651.084 s
+AUC: Out of Memory
+
+embedding/dim32-len20/line_train8.pkl
+[time] GraphApplication.train: 667.35 s
+AUC: TODO
+
+embedding/dim32-len40/deepwalk_train8.pkl
+[time] GraphApplication.train: 610.34 s
+AUC: 0.938766
+
+embedding/dim64-len40/deepwalk_train8.pkl
+[time] GraphApplication.train: 614.116 s
+AUC: 0.942989
+
+embedding/dim96-len40/deepwalk_train8.pkl
+[time] GraphApplication.train: 632.165 s
+AUC: 0.943773
+
+embedding/dim32-len20/deepwalk_train8.pkl
+[time] GraphApplication.train: 686.833 s
+AUC: 0.939797
+
+embedding/dim32-len2/deepwalk_train8.pkl <- augmentation_step (window_size) = 2
+[time] GraphApplication.train: 1412.86 s
+AUC: 0.931279
+
+embedding/dim32-len10/deepwalk_train8.pkl
+[time] GraphApplication.train: 561.166 s
+AUC: 0.924365
+
+embedding/dim128-len40/deepwalk_train8.pkl
+AUC: Out of Memory

@@ -37,3 +37,12 @@ Here's the config file that we used for the final submission where you can tune 
 The graph embedding file (in pickle format) will be generated into the directory specified in the config file.
 
 Then you can use the code in [`eval/evaluate.ipynb`](https://github.com/qiangxinglin/COMP90051-Project1-Team22/blob/master/eval/evaluate.ipynb) to generate the formatted probability CSV file for Kaggle submission.
+
+## Scripts Roles
+
+* `my_config.yml`  - Config settings for running GraphVite.
+* `adj2edge.ipynb` - Transforming adjacent list form to edge list form. 
+* `evaluate.ipynb` - Calculating AUC scores and Kaggle competition results.
+* `split_dataset.ipynb` - Randomly splitting the raw data into 8:2 dataset, while generating fake edges in the 20% dataset.
+* `eval.ipynb` - Making evaluation on the embeddings.
+* `logistic_reg.ipynb` - Trying Logitic Regression based on the embeddings.
